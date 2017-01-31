@@ -1,0 +1,10 @@
+1 Drama 4 samedi Vacance Hiver Soir 5
+1 Action 4 lundi Normal Automne Matin 3
+1 Drama 4 lundi Normal Automne Matin 5
+1 Action 3 lundi Normal Automne Soir 5
+1 Musical 2 lundi Normal Automne Matin 1
+1 Drama 4 mercredi Normal Automne Nuit 4
+1 Comedy 5 vendredi Vacance Printemp Nuit 5
+1 Animation 3 dimanche Normal Printemp Matin 2
+1 Comedy 5 mercredi Normal Automne Nuit 4
+1 Action 4 lundi Normal Automne Matin 3
